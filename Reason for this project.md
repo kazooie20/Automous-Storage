@@ -1,4 +1,4 @@
-# Automous-Storage
+# Smart-Storage
 
 # A smart campus solution that makes use of technology to enhance or transform the current education landscape.
 #
